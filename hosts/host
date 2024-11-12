@@ -1,0 +1,4 @@
+[master]
+user@srv.cis-ees.ru ansible_port=2222
+[worker1]
+user@srv.cis-ees.ru ansible_port=2223
